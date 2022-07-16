@@ -1,0 +1,96 @@
+Serial	Item	Property	Property __Depth	Property__Key	Property__Value
+1	1	1	2	Kingdom__Name	Animal
+2	1	2	3	Kingdom__Phylum__Name	Chordata
+3	1	3	4	Kingdom__Phylum__Class__Name	Mammalia
+4	1	4	5	Kingdom__Phylum__Class__Order__Name	Artiodactyla
+5	1	5	6	Kingdom__Phylum__Class__Order__Family__Name	Platanistidae
+6	1	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Platanista
+7	1	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Gangetica
+8	1	8	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	South asian river dolphin
+9	1	9	10	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+10	1	10	10	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+11	1	11	10	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Endangered
+12	2	1	2	Kingdom__Name	Animal
+13	2	2	3	Kingdom__Phylum__Name	Chordata
+14	2	3	4	Kingdom__Phylum__Class__Name	Mammalia
+15	2	4	5	Kingdom__Phylum__Class__Order__Name	Carnivora
+16	2	5	6	Kingdom__Phylum__Class__Order__Sub-Order__Name	Feliformia
+17	2	6	7	Kingdom__Phylum__Class__Order__Sub-Order__Family__Name	Felidae
+18	2	7	8	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Name	Pantherinae
+19	2	8	9	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Name	Panthera
+20	2	9	10	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Name	Tigris
+21	2	10	11	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Sub-Species__Name	Tigris
+22	2	11	11	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Sub-Species__Common Name	Royal bengal tiger
+23	2	12	12	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Sub-Species__Conservation Status__Classification System	IUCN
+24	2	13	12	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Sub-Species__Conservation Status__Version	3.1
+25	2	14	12	Kingdom__Phylum__Class__Order__Sub-Order__Family__Sub-Family__Genus__Species__Sub-Species__Conservation Status__Value	Endangered
+26	3	1	2	Kingdom__Name	Animal
+27	3	2	3	Kingdom__Phylum__Name	Chordata
+28	3	3	4	Kingdom__Phylum__Class__Name	Reptilia
+29	3	4	5	Kingdom__Phylum__Class__Order__Name	Crocodilia
+30	3	5	6	Kingdom__Phylum__Class__Order__Family__Name	Gavialidae
+31	3	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Gavialis
+32	3	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Gangeticus
+33	3	8	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	Gharial
+34	3	9	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+35	3	10	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+36	3	11	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Critically Endangered
+37	4	1	2	Kingdom__Name	Animal
+38	4	2	3	Kingdom__Phylum__Name	Chordata
+39	4	3	4	Kingdom__Phylum__Class__Name	Aves
+40	4	4	5	Kingdom__Phylum__Class__Order__Name	Accipitriformes
+41	4	5	6	Kingdom__Phylum__Class__Order__Family__Name	Accipitridae
+42	4	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Gyps
+43	4	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Indicus
+44	4	8	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	Indian vulture
+45	4	9	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+46	4	10	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+47	4	11	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Critically Endangered
+48	5	1	2	Kingdom__Name	Animal
+49	5	2	3	Kingdom__Phylum__Name	Chordata
+50	5	3	4	Kingdom__Phylum__Class__Name	Aves
+51	5	4	5	Kingdom__Phylum__Class__Order__Name	Accipitriformes
+52	5	5	6	Kingdom__Phylum__Class__Order__Family__Name	Accipitridae
+53	5	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Haliaeetus
+54	5	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Leucocephalus
+55	5	8	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	Bald Eagle
+56	5	9	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Unit	Meter
+57	5	10	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Value	2.3
+58	5	11	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+59	5	12	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+60	5	13	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Least Concern
+61	6	1	2	Kingdom__Name	Animal
+62	6	2	3	Kingdom__Phylum__Name	Chordata
+63	6	3	4	Kingdom__Phylum__Class__Name	Aves
+64	6	4	5	Kingdom__Phylum__Class__Order__Name	Accipitriformes
+65	6	5	6	Kingdom__Phylum__Class__Order__Family__Name	Accipitridae
+66	6	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Haliaeetus
+67	6	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Pelagicus
+68	6	8	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	Steller's sea eagle
+69	6	9	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Unit	Inch
+70	6	10	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Value	74
+71	6	11	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+72	6	12	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+73	6	13	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Vulnerable
+74	6	14	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Weight__Unit	Pound
+75	6	15	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Weight__Value	13.78
+76	7	1	2	Kingdom__Name	Animal
+77	7	2	3	Kingdom__Phylum__Name	Chordata
+78	7	3	4	Kingdom__Phylum__Class__Name	Aves
+79	7	4	5	Kingdom__Phylum__Class__Order__Name	Accipitriformes
+80	7	5	6	Kingdom__Phylum__Class__Order__Family__Name	Accipitridae
+81	7	6	7	Kingdom__Phylum__Class__Order__Family__Genus__Name	Haliaeetus
+82	7	7	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Name	Albicilla
+83	7	8	8	Kingdom__Phylum__Class__Order__Family__Genus__Species__Common Name	White tailed eagle
+84	7	9	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Unit	Meter
+85	7	10	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Wing Span__Value	2.3
+86	7	11	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Classification System	IUCN
+87	7	12	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Version	3.1
+88	7	13	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Conservation Status__Value	Least Concern
+89	7	14	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Weight__Unit	Kilogram
+90	7	15	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Weight__Value	6.3
+91	7	16	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Alias__Alias 1	Ern
+92	7	17	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Alias__Alias 2	Erne
+93	7	18	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Alias__Alias 3	Gray sea eagle
+94	7	19	9	Kingdom__Phylum__Class__Order__Family__Genus__Species__Alias__Alias 4	Eurasian sea eagle
+95	8	1	2	Kingdom__Name	Plant

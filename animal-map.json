@@ -1,0 +1,41 @@
+{
+  "Type": "Animal Map",
+  "Version": "2020-04-04",
+  "Provider": "WWF",
+  "report-type": "vulnerability-list",
+  "report-format": "pdf",
+  "International": {
+    "USA": {
+      "Standards": {
+        "Endangered": {
+          "Status": {
+            "matching-key-fragment-01": "__Conservation Status__Value"
+          },
+          "Colloqial": {
+            "matching-key-fragment-01": "__Common Name"
+          }
+        },
+        "Size": {
+          "Weight": {
+            "Total": {
+              "matching-key-fragment-01": "__Weight__Value",
+              "matching-key-fragment-02": "__Weight__Unit"
+            }
+          },
+          "Length": {
+            "matching-key-fragment-01": "__Wing Span__Value",
+            "matching-key-fragment-02": "__Wing Span__Unit"
+          }
+        }
+      }
+    },
+    "Japan": {
+      "Reference": {
+        "Scientific Name": {
+          "matching-key-fragment-01": "__Genus_Name",
+          "matching-key-fragment-02": "__Species_Name"
+        }
+      }
+    }
+  }
+}

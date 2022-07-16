@@ -1,0 +1,108 @@
+---
+Kingdom:
+ - Name: Animal
+   Phylum:
+    Class:
+     - Name: Mammalia
+       Order:
+        - Family:
+           Genus:
+            Name: Platanista
+            Species:
+             "Common Name": "South asian river dolphin"
+             "Conservation Status":
+              "Classification System": IUCN
+              Value: Endangered
+              Version: 3.1
+             Name: Gangetica
+           Name: Platanistidae
+          Name: Artiodactyla
+        - Name: Carnivora
+          Sub-Order:
+           Family:
+            Name: Felidae
+            Sub-Family:
+             Genus:
+              Name: Panthera
+              Species:
+               Name: Tigris
+               Sub-Species:
+                "Common Name": "Royal bengal tiger"
+                "Conservation Status":
+                 "Classification System": IUCN
+                 Value: Endangered
+                 Version: 3.1
+                Name: Tigris
+             Name: Pantherinae
+           Name: Feliformia
+     - Name: Reptilia
+       Order:
+        Family:
+         Genus:
+          Name: Gavialis
+          Species:
+           "Common Name": Gharial
+           "Conservation Status":
+            "Classification System": IUCN
+            Value: "Critically Endangered"
+            Version: 3.1
+           Name: Gangeticus
+         Name: Gavialidae
+        Name: Crocodilia
+     - Name: Aves
+       Order:
+        Family:
+         Genus:
+          - Name: Gyps
+            Species:
+             "Common Name": "Indian vulture"
+             "Conservation Status":
+              "Classification System": IUCN
+              Value: "Critically Endangered"
+              Version: 3.1
+             Name: Indicus
+          - Name: Haliaeetus
+            Species:
+             - "Common Name": "Bald Eagle"
+               "Conservation Status":
+                "Classification System": IUCN
+                Value: "Least Concern"
+                Version: 3.1
+               Name: Leucocephalus
+               "Wing Span":
+                Unit: Meter
+                Value: 2.3
+             - "Common Name": "Steller's sea eagle"
+               "Conservation Status":
+                "Classification System": IUCN
+                Value: Vulnerable
+                Version: 3.1
+               Name: Pelagicus
+               Weight:
+                Unit: Pound
+                Value: 13.78
+               "Wing Span":
+                Unit: Inch
+                Value: 74
+             - Alias:
+                - "Alias 1": Ern
+                  "Alias 2": Erne
+                  "Alias 3": "Gray sea eagle"
+                  "Alias 4": "Eurasian sea eagle"
+               "Common Name": "White tailed eagle"
+               "Conservation Status":
+                "Classification System": IUCN
+                Value: "Least Concern"
+                Version: 3.1
+               Name: Albicilla
+               Weight:
+                Unit: Kilogram
+                Value: 6.3
+               "Wing Span":
+                Unit: Meter
+                Value: 2.3
+         Name: Accipitridae
+        Name: Accipitriformes
+    Name: Chordata
+ - Name: Plant
+Name: Organism

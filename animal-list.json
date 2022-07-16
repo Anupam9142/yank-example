@@ -1,0 +1,134 @@
+{
+    "Type": "Resource List",
+    "Generated": "2020-04-01 16:30:59 UTC",
+    "International": {
+        "USA": {
+            "Standards": {
+                "Endangered": {
+                    "Status": [
+                        {
+                            "value": "Endangered",
+                            "line": "11"
+                        },
+                        {
+                            "value": "Endangered",
+                            "line": "25"
+                        },
+                        {
+                            "value": "Critically Endangered",
+                            "line": "36"
+                        },
+                        {
+                            "value": "Critically Endangered",
+                            "line": "47"
+                        },
+                        {
+                            "value": "Least Concern",
+                            "line": "60"
+                        },
+                        {
+                            "value": "Vulnerable",
+                            "line": "73"
+                        },
+                        {
+                            "value": "Least Concern",
+                            "line": "88"
+                        }
+                    ],
+                    "Colloqial": [
+                        {
+                            "value": "South asian river dolphin",
+                            "line": "8"
+                        },
+                        {
+                            "value": "Royal bengal tiger",
+                            "line": "22"
+                        },
+                        {
+                            "value": "Gharial",
+                            "line": "33"
+                        },
+                        {
+                            "value": "Indian vulture",
+                            "line": "44"
+                        },
+                        {
+                            "value": "Bald Eagle",
+                            "line": "55"
+                        },
+                        {
+                            "value": "Steller's sea eagle",
+                            "line": "68"
+                        },
+                        {
+                            "value": "White tailed eagle",
+                            "line": "83"
+                        }
+                    ]
+                },
+                "Size": {
+                    "Weight": {
+                        "Total": [
+                            {
+                                "value": "13.78 Pound",
+                                "line": "75, 74"
+                            },
+                            {
+                                "value": "6.3 Kilogram",
+                                "line": "90, 89"
+                            }
+                        ]
+                    },
+                    "Length": [
+                        {
+                            "value": "2.3 Meter",
+                            "line": "57, 56"
+                        },
+                        {
+                            "value": "74 Inch",
+                            "line": "70, 69"
+                        },
+                        {
+                            "value": "2.3 Meter",
+                            "line": "85, 84"
+                        }
+                    ]
+                }
+            }
+        },
+        "Japan": {
+            "Reference": {
+                "Scientific Name": [
+                    {
+                        "value": "Platanista Gangetica",
+                        "line": "6,7"
+                    },
+                    {
+                        "value": "Panthera Tigris",
+                        "line": "19, 20"
+                    },
+                    {
+                        "value": "Gavialis Gangeticus",
+                        "line": "31, 32"
+                    },
+                    {
+                        "value": "Gyps Indicus",
+                        "line": "42, 43"
+                    },
+                    {
+                        "value": "Haliaeetus Leucocephalus",
+                        "line": "53, 54"
+                    },
+                    {
+                        "value": "Haliaeetus Pelagicus",
+                        "line": "66, 67"
+                    },
+                    {
+                        "value": "Haliaeetus Albicilla",
+                        "line": "81, 82"
+                    }
+                ]
+            }
+        }
+    }
+}
